@@ -13,10 +13,10 @@
 
 ### Xposed Installation
 
-1. Install root_browser.apk
+1. Install root_explorer.apk
 2. Install terminal.apk
 3. Install xposed.apk
-4. Open Root Browser
+4. Open Root Explorer
 5. Copy "update-binary" and "xposed-v89-sdk25-x86_64-signed.zip" to "/data/local/tmp"
 6. Run below commands in Terminal Emulator app with root
 7. Restart emulator
